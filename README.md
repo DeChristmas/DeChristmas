@@ -1,5 +1,5 @@
 + 👋 Hi, I’m @DeChristmas
-+ 📚 I’m currently learning SASS/REACT.
++ 📚 I’m currently learning REACT.
 + 🧡 Programming it's my life 🧡
 + 🎓 Graduate in Information Technology
 + 🍭 Instagram: dechristmas_
